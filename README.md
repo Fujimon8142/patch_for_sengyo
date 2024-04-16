@@ -1,7 +1,8 @@
 # Sengyo Patch for Steel Diver: Sub Wars
 
 ## Introduction
-This repository contains a patch that fixes an issue in the game 'Steel Diver: Sub Wars', specifically related to 'Sengyo'. 'Sengyo' is short for 'Senkai Gyorai', a phenomenon that occurs when a player is turning and firing a torpedo. The spawn position of the torpedo appears to be different between its owner (the one who fires it) and other players.
+This repository contains a patch that either fixes or exacerbates (currently in the process of being fixed) an issue in the game ‘Steel Diver: Sub Wars’, specifically related to ‘Sengyo’.
+'Sengyo' is short for 'Senkai Gyorai', a phenomenon that occurs when a player is turning and firing a torpedo. The spawn position of the torpedo appears to be different between its owner (the one who fires it) and other players.
 
 You can watch a video about this issue [here](https://www.youtube.com/watch?v=Yx3cfT59XwA). The video shows, from left to right, the perspective of a torpedo observer with the patch applied, a torpedo observer without the patch, and the torpedo's owner.
 
